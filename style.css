@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #fff;
+}
+
+
+
+.head__logo {
+    background-image: url(images/logo.png);
+    background-repeat: no-repeat;
+    height: 10rem;
+    width: 100%;
+}
+
+.head__nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.head__nav ul li a {
+    text-decoration: none;
+    color: #000;
+}

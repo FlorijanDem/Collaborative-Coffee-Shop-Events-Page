@@ -31,3 +31,14 @@ head {
     text-decoration: none;
     color: #000;
 }
+.foot {
+    
+    background-color: rgb(119, 114, 114);
+    color: white;
+}
+.mainfoo{
+    text-align: center;
+}
+.foot img{
+    width: 30px;
+}
